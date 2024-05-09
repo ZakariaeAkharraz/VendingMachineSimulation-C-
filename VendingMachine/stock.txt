@@ -1,0 +1,10 @@
+Chips,1,50,1,0
+Candy Bar,2,60,2,0
+Cookies,3,70,3,0
+Nuts,4,55,4,0
+Granola Bar,5,65,5,0
+Doritos,6,100,6,7
+Popcorn,7,90,8,9
+Pretzels,8,80,10,11
+Trail Mix,9,95,12,13
+Chocolate Bar,10,75,14,15
